@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+transformers
+fpdf
+python-dotenv
