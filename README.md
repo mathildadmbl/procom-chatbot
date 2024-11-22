@@ -12,7 +12,7 @@
         │   │   └── analyzer.py   # Analyse des réponses utilisateur
         │   ├── utils/            # Fonctions utilitaires
         │   │   └── report.py     # Génération de rapports
-        │   └── models/           # Modèles de données (Pydantic)
+        │   └── models/           # Modèles de données
         │       └── user_input.py # Schéma pour les requêtes utilisateurs
         ├── requirements.txt      # Dépendances Python
         ├── Dockerfile            # Fichier Docker pour le déploiement
@@ -20,4 +20,4 @@
         ├── tests/                # Tests unitaires
         │   └── test_chat.py
         ├── README.md             # Documentation du projet
-        └── data/                 # (Optionnel) Fichiers de données ou logs
+        └── data/                 # Fichiers de données ou logs (optionnel) 
