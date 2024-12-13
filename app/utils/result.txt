@@ -1,0 +1,5 @@
+nom = "Jean Dupont"
+age = 50
+profession = "Ingénieur"
+score_epuisement = 40
+score_detachement = 30
